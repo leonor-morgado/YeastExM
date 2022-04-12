@@ -1,5 +1,5 @@
 # YeastExM
-ExM tools database: Here we provide .stl models for 3D printed ExM sample preparation tools. We used this tools to realize Yeast ExM as described here: 
+Here we provide .stl models for 3D printed ExM sample preparations tools as well as a video showing how to proceed throughout the protocol of ExM on Yeast as described here:
 
 **"Expansion microscopy on Saccharomyces cerevisiae"**
 
