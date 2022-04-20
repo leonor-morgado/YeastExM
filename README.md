@@ -7,4 +7,4 @@ Artemis G. Korovesi<sup>§1</sup>, Leonor Morgado<sup>§1</sup>, Marco Fumasoni<
 
 Correspondance to H.S.H.: hsheil@igc.gulbenkian.pt & M.D.R.: mrosario@igc.gulbenkian.pt
 
-You can also find a video showing how to proceed throughout the protocol here: 10.5281/zenodo.6451578 
+You can also find a video showing how to proceed throughout the protocol here: https://doi.org/10.5281/zenodo.6451578
